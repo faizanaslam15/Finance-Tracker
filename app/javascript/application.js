@@ -4,4 +4,9 @@ import "controllers"
 //= require rails-ujs
 //= require_tree .
 
+import "bootstrap"
+import "jquery"
+import "@popperjs/core"
+
+
 
